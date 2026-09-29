@@ -1,7 +1,7 @@
 # IEE-754-Converter
+A simple decimal to binary converter in IEE-754 pattern!
 
 ## How the app works? 📱
-A simple decimal to binary converter in IEE-754 pattern!
 You put a decimal number, like: 5.75. And than, the calculator will do the rest, making the math to return the number in some results: Binary, Hexadecimal and BIAS.
 
 For those who don't know, the IEE-754 Pattern its how the computers and stuff do their calculations for float/double numbers. 
